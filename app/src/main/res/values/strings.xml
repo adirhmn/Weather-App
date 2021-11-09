@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WeatherApiApp</string>
+
+    <string-array name="names">
+        <item>Current Weather</item>
+        <item>Forecast Weather</item>
+        <item>History Weather</item>
+    </string-array>
+</resources>
